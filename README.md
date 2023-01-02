@@ -29,7 +29,9 @@ A repo containing ChatGPT failure cases for further study
   https://twitter.com/AdrianoDAlessa3/status/1607815190111977473/photo/1  
 
 """
+  
 In this example I asked for a list of celebrities born on January 3rd. No celebrity it returned was born on that day. I asked for an explanation.
+
 """
 
   * __User:__ Explain in detail how Logan Paul meets the criteria 
