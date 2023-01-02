@@ -4,9 +4,11 @@ I think it could be useful for:
 * comparison with other models (e.g. the future GPT4)
 * creation of synthetic data for testing and/or training
 
+**Click on the underlined sentences to show details**
+
 ## Ages
 <details>
-  <summary>ChatGPT fails sister's age question</summary>
+  <summary><ins>ChatGPT fails sister's age question</ins></summary>
   by Peter Yang on Twitter
   
   https://twitter.com/petergyang/status/1607443647859154946
@@ -17,7 +19,7 @@ I think it could be useful for:
 
 ## Dates
 <details>
-  <summary>ChatGPT fails date questions</summary>
+  <summary><ins>ChatGPT fails date questions</ins></summary>
   by Adriano D'Alessandro on Twitter
   
   https://twitter.com/AdrianoDAlessa3/status/1607815190111977473/photo/1  
@@ -36,7 +38,7 @@ I apologize if my previous response was not clear. I hope this additional inform
 
 ## Family relationships
 <details>
-  <summary>ChatGPT fails to name the fourth kid</summary>
+  <summary><ins>ChatGPT fails to name the fourth kid</ins></summary>
   by Mustafa Khundmiri at Twitter
   
   https://twitter.com/mkhundmiri/status/1608350828359782400/photo/1
@@ -48,7 +50,7 @@ I apologize if my previous response was not clear. I hope this additional inform
 </details>
 
 <details>
-  <summary>ChatGPT fails father / brother question</summary>
+  <summary><ins>ChatGPT fails father / brother question</ins></summary>
   by letsrebelagain on Twitter
   
   https://twitter.com/letsrebelagain/status/1598190565988118529
