@@ -19,7 +19,7 @@ I think it could be useful for:
 
 ## Dates
 <details>
-  <summary><ins>ChatGPT fails date questions</ins></summary>
+  <summary><ins>ChatGPT fails birth date question</ins></summary>
   by Adriano D'Alessandro on Twitter
   
   https://twitter.com/AdrianoDAlessa3/status/1607815190111977473/photo/1  
