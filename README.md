@@ -27,6 +27,8 @@ I think it could be useful for:
   * __ChatGPT:__ Based on the information provided, it is not possible to determine the identity of Jay's father. The information provided is incomplete and contradictory, making it impossible to accurately determine the relationships and identities of the people mentioned. In order to accurately determine the identity of Jay's father, it would be necessary to have more complete and consistent information ahnut the family members and their relationships. 
 </details>
 
+
+## Dates
 <details>
   <summary>ChatGPT fails date questions</summary>
   by Adriano D'Alessandro on Twitter
