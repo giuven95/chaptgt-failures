@@ -1,5 +1,10 @@
-A repo containing ChatGPT failure cases for further study
+# ChatGPT failure archive
+A repo containing ChatGPT failure cases for further study.
+I think it could be useful for:
+* comparison with other models (e.g. the future GPT4)
+* creation of synthetic data for testing and/or training
 
+## Elementary reasoning
 <details>
   <summary>ChatGPT fails sister age question</summary>
   by Peter Yang on Twitter
