@@ -69,3 +69,11 @@ I apologize if my previous response was not clear. I hope this additional inform
   https://old.reddit.com/r/ChatGPT/comments/101a9wh/ermm_chatgpt_i_think_i_won/
 
 </details>
+
+<details>
+  <summary><ins>ChatGPT fails at Chess</ins></summary>
+  by Scott P on Twitter
+
+  https://mobile.twitter.com/Eyeclops_/status/1608909366861926400
+
+</details>
