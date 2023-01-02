@@ -60,3 +60,12 @@ I apologize if my previous response was not clear. I hope this additional inform
   * __User:__ Who is Jay's father 
   * __ChatGPT:__ Based on the information provided, it is not possible to determine the identity of Jay's father. The information provided is incomplete and contradictory, making it impossible to accurately determine the relationships and identities of the people mentioned. In order to accurately determine the identity of Jay's father, it would be necessary to have more complete and consistent information ahnut the family members and their relationships. 
 </details>
+
+## Games
+<details>
+  <summary><ins>ChatGPT fails at Tic Tac Toe</ins></summary>
+  by TheHolyCatboy on Reddit
+
+  https://old.reddit.com/r/ChatGPT/comments/101a9wh/ermm_chatgpt_i_think_i_won/
+
+</details>
