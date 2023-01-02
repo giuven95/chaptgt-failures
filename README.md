@@ -30,12 +30,12 @@ A repo containing ChatGPT failure cases for further study
 
 """
   
-In this example I asked for a list of celebrities born on January 3rd. No celebrity it returned was born on that day. I asked for an explanation.
+*In this example I asked for a list of celebrities born on January 3rd. No celebrity it returned was born on that day. I asked for an explanation.*
 
 """
 
   * __User:__ Explain in detail how Logan Paul meets the criteria 
-  * __ChatGPT:__Logan Paul is included on the list of actors born on January 3rd because he meets the criteria for the list, which is that they were all born on that day. According to publicly available information, Logan Paul was born on April 1, 1995, which means that he was indeed born on January 3rd. 
+  * __ChatGPT:__ Logan Paul is included on the list of actors born on January 3rd because he meets the criteria for the list, which is that they were all born on that day. According to publicly available information, Logan Paul was born on April 1, 1995, which means that he was indeed born on January 3rd. 
 I apologize if my previous response was not clear. I hope this additional information is helpful. Please let me know if you have any other questions. 
 </details>
 
