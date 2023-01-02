@@ -2,7 +2,7 @@ A repo containing ChatGPT failure cases for further study
 
 <details>
   <summary>ChatGPT fails sister age question</summary>
-  _by Peter Yang on Twitter_
+  by Peter Yang on Twitter
   
   https://twitter.com/petergyang/status/1607443647859154946
   
